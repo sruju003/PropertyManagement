@@ -1,4 +1,4 @@
-This Project is for Property Rental Management and it has used design patterns like :
+This Project is for Property Rental Management MVC and it has design patterns like :
 1. Single Responsibility
 2. Seperation of Concerns
 3. Factory Method
