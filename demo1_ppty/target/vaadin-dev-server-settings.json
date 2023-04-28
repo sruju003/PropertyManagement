@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/home/pes1ug20cs524/Desktop/ooad/demo1_user/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/pes1ug20cs524/Desktop/ooad/demo1_user/./frontend/generated/jar-resources",
+  "staticOutput": "/home/pes1ug20cs524/Desktop/ooad/demo1_user/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/pes1ug20cs524/Desktop/ooad/demo1_user/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/pes1ug20cs524/Desktop/ooad/demo1_user/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/pes1ug20cs524/Desktop/ooad/demo1_user/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/pes1ug20cs524/Desktop/ooad/demo1_user/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/home/pes1ug20cs524/Desktop/ooad/demo1_user/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "/home/pes1ug20cs524/Desktop/ooad/demo1_user/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
