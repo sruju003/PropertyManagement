@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "C:/Users/Kumar Shantanu Khare/Downloads/ooad1/ooad/demo_feed/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Kumar Shantanu Khare/Downloads/ooad1/ooad/demo_feed/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Kumar Shantanu Khare/Downloads/ooad1/ooad/demo_feed/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Kumar Shantanu Khare\\Downloads\\ooad1\\ooad\\demo_feed\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Kumar Shantanu Khare\\Downloads\\ooad1\\ooad\\demo_feed\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Kumar Shantanu Khare/Downloads/ooad1/ooad/demo_feed/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Kumar Shantanu Khare/Downloads/ooad1/ooad/demo_feed/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Kumar Shantanu Khare/Downloads/ooad1/ooad/demo_feed/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\Kumar Shantanu Khare\\Downloads\\ooad1\\ooad\\demo_feed\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
